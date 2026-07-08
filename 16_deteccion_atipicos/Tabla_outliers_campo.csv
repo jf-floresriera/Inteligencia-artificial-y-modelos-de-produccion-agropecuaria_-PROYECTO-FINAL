@@ -1,0 +1,4 @@
+Variable,n,Outliers_Zscore,Outliers_IQR,Lim_inf,Lim_sup
+LAI4,139,0,0,-0.137,4.482
+LAI5,139,0,0,-0.035,3.645
+%Cob,139,3,7,49.147,107.688

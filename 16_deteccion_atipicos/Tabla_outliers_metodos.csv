@@ -1,0 +1,6 @@
+Metodo,N_atipicos
+IsoForest,14
+LOF,13
+DBSCAN,12
+OCSVM,17
+Consenso(>=2),14
